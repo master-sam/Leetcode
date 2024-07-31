@@ -1,3 +1,5 @@
+name: "Solution.py"
+
 # DLC: 31 July 2024
 # Link: https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31
 

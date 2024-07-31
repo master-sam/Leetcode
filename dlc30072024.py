@@ -1,9 +1,11 @@
+"""
 name: "Solution.py"
 
 # DLC: 31 July 2024
 # Link: https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31
 
-#Problem: You are given an array books where books[i] = [thicknessi, heighti] indicates the thickness and height of the ith book. You are also given an integer shelfWidth.
+#Problem: 
+You are given an array books where books[i] = [thicknessi, heighti] indicates the thickness and height of the ith book. You are also given an integer shelfWidth.
 
 We want to place these books in order onto bookcase shelves that have a total width shelfWidth.
 
@@ -16,7 +18,7 @@ Return the minimum possible height that the total bookshelf can be after placing
 
 
 #Solution:
-
+"""
 class Solution:
     #TC: O(N^2)
     #SC: O(N)

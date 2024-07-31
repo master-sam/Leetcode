@@ -1,3 +1,4 @@
+"""
 #DL: 30 July
 
 # Problem:
@@ -7,8 +8,14 @@ You can delete any number of characters in s to make s balanced. s is balanced i
 
 Return the minimum number of deletions needed to make s balanced.
 
+Constraints:
+
+1 <= s.length <= 105
+s[i] is 'a' or 'b'​​.
+
 
 #Soulution:
+"""
 
 class Solution:
     #TC: O(N)

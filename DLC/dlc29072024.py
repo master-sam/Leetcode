@@ -1,3 +1,4 @@
+"""
 //Daily Question 29th July, 2024
 Link: https://leetcode.com/problems/count-number-of-teams/description/
 Description: There are n soldiers standing in a line. Each soldier is assigned a unique rating value.
@@ -15,7 +16,7 @@ n == rating.length
 All the integers in rating are unique.
 
 Python Code:
-
+"""
 class Solution:
     #TC: O(N^2)
     #SC: O(4*N)

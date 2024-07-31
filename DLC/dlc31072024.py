@@ -16,6 +16,12 @@ We choose some of the books to place on this shelf such that the sum of their th
 For example, if we have an ordered list of 5 books, we might place the first and second book onto the first shelf, the third book on the second shelf, and the fourth and fifth book on the last shelf.
 Return the minimum possible height that the total bookshelf can be after placing shelves in this manner.
 
+Constraints:
+
+1 <= books.length <= 1000
+1 <= thicknessi <= shelfWidth <= 1000
+1 <= heighti <= 1000
+
 
 #Solution:
 """
